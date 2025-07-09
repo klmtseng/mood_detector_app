@@ -4,7 +4,7 @@ This is a simple web application that uses your device's camera and machine lear
 
 ## **Live Demo**
 
-You can try the live application here: \[**Link to your GitHub Pages URL will appear here after deployment**\]
+You can try the live application here: https://klmtseng.github.io/mood_detector_app/
 
 ## **How to Use**
 
